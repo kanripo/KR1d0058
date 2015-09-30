@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記纂言,原序
-#+DATE: 2015-09-23 09:38:20
-#+PROPERTY: JUAN 26
+#+DATE: 2015-08-24 22:10:20.688233
+#+PROPERTY: ID KR1d0058
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十六
 <pb:KR1d0058_WYG_026-1a>¶
 欽定四庫全書¶
 　禮記纂言卷二十六　　　　元　吳澄　撰¶
@@ -686,6 +688,7 @@
 　(為為之也即無/為是圖速者也)¶
 　　　右記論禮之辭凡十¶
 　禮記纂言卷二十六¶
+#+PROPERTY: JUAN 卷二十六
 <pb:KR1d0058_WYG_026-39a>¶
 欽定四庫全書¶
 　禮記纂言卷二十六　　　　元　吳澄　撰¶
@@ -1370,4 +1373,3 @@
 　(為為之也即無/為是圖速者也)¶
 　　　右記論禮之辭凡十¶
 　禮記纂言卷二十六¶
-

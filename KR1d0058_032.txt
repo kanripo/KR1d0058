@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記纂言,原序
-#+DATE: 2015-09-23 09:38:20
-#+PROPERTY: JUAN 32
+#+DATE: 2015-08-24 22:10:20.834796
+#+PROPERTY: ID KR1d0058
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十二
 <pb:KR1d0058_WYG_032-1a>¶
 欽定四庫全書¶
 　禮記纂言卷三十二　　　　元　吳澄　撰¶
@@ -560,6 +562,7 @@
 　¶
 　¶
 　禮記纂言卷三十二¶
+#+PROPERTY: JUAN 卷三十二
 <pb:KR1d0058_WYG_032-32a>¶
 欽定四庫全書¶
 　禮記纂言卷三十二　　　　元　吳澄　撰¶
@@ -1118,4 +1121,3 @@
 　¶
 　¶
 　禮記纂言卷三十二¶
-
